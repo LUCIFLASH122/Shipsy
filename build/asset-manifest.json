@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.a3975040.js",
-    "index.html": "/index.html",
-    "main.a3975040.js.map": "/static/js/main.a3975040.js.map"
+    "main.js": "/Shipsy/static/js/main.0c059b62.js",
+    "index.html": "/Shipsy/index.html",
+    "main.0c059b62.js.map": "/Shipsy/static/js/main.0c059b62.js.map"
   },
   "entrypoints": [
-    "static/js/main.a3975040.js"
+    "static/js/main.0c059b62.js"
   ]
 }
